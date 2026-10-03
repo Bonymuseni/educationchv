@@ -1,9 +1,10 @@
-
 <p align="center">
-  <img src="logo.jpg" width="180" alt="EducationCHV Logo" />
+  <img src="logo.jpg" width="180" style="border-radius:50%" alt="EducationCHV Logo" />
 </p>
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=200&section=header&text=EducationCHV%20Organisation&fontSize=40&fontColor=fff&animation=fadeIn&desc=From%20Shinyalu,%20Kakamega%20to%20the%20World&descAlignY=75)
 
+<img src="https://img.shields.io/badge/Location-Shinyalu,%20Kakamega,%20Kenya-green?style=flat&logo=googlemaps" /> <img src="https://img.shields.io/badge/Focus-HealthTech%20%7C%20EdTech-blue" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bonymuseni&label=Profile%20Views&color=22c55e&style=flat" />
   <img src="https://img.shields.io/badge/Location-Shinyalu%2C%20Kakamega%2C%20Kenya-22c55e?style=flat&logo=googlemaps" />
