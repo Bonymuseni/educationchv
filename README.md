@@ -1,68 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EducationCHV ORGANISATION - Shinyalu, Kakamega, Kenya</title>
-<script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
 
-<nav class="bg-[#0f2e1f] text-white px-6 py-3 flex justify-between items-center sticky top-0 z-50">
-  <div class="flex items-center gap-3">
-    <img src="logo.png" class="w-14 h-14 rounded-full border-2 border-[#d4a853]">
-    <div>
-      <h1 class="font-extrabold text-xl text-[#d4a853]">EducationCHV</h1>
-      <p class="text-[13px] tracking-widest text-[#d4a853]">ORGANISATION</p>
-      <p class="text-[10px] text-gray-300">Shinyalu • Kakamega • Kenya</p>
-    </div>
-  </div>
-  <a href="#contact" class="bg-[#d4a853] text-[#0f2e1f] px-6 py-2 rounded-md font-bold">DONATE</a>
-</nav>
+<p align="center">
+  <img src="logo.png" width="200" alt="EducationCHV Logo" />
+</p>
 
-<section class="relative bg-[#0f2e1f] text-white">
-  <img src="https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1400" class="absolute inset-0 w-full h-full object-cover opacity-40">
-  <div class="relative px-6 py-16 max-w-6xl mx-auto">
-    <h2 class="text-3xl md:text-4xl font-extrabold max-w-2xl">Empowering Education & Hope in Shinyalu, Kakamega</h2>
-    <p class="mt-3 text-lg font-semibold">Building brighter futures through education, skills training, and community support</p>
-    <div class="mt-6 flex gap-4">
-      <a href="#contact" class="bg-[#d4a853] text-black px-6 py-3 rounded-md font-bold text-sm">Support Our Mission</a>
-      <a href="#about" class="border-2 border-[#d4a853] px-6 py-3 rounded-md font-bold text-sm">Learn More</a>
-    </div>
-  </div>
-  <div class="relative bg-[#d4a853] text-black text-sm px-6 py-2 font-semibold">🎓 Registered NGO • Serving Kakamega County 📍 M-Pesa: 0726575964</div>
-</section>
+<h1 align="center">EducationCHV Organisation</h1>
+<p align="center">Shinyalu • Kakamega • Kenya</p>
 
-<section id="about" class="bg-[#f5f1eb] px-6 py-10">
-  <div class="max-w-6xl mx-auto">
-    <h3 class="text-2xl font-bold text-[#0f2e1f]">About Us</h3>
-    <p class="text-sm mt-3 leading-relaxed">EducationCHV is a community-based NGO dedicated to improving access to quality education for children and youth in Shinyalu, Kakamega County, Kenya. Since 2020, we have been working with local schools, families, and partners to provide learning materials, scholarships, and mentorship programs.</p>
-  </div>
-</section>
+<p align="center">
+  <a href="https://bonymuseni.github.io/educationchv/"><b>🌍 Visit Live Website</b></a> •
+  M-Pesa: <b>0726575964</b>
+</p>
 
-<section class="px-6 py-10 max-w-6xl mx-auto grid lg:grid-cols-3 gap-8">
-  <div class="lg:col-span-2">
-    <h3 class="text-2xl font-bold text-center text-[#0f2e1f]">What We Do</h3>
-    <div class="grid md:grid-cols-3 gap-5 mt-6">
-      <div class="bg-white border rounded-xl p-5 text-center shadow-sm"><div class="text-3xl mb-3">🎓</div><h4 class="font-bold text-sm">Scholarships & School Fees</h4><p class="text-xs mt-2 text-gray-600">Providing scholarships for vulnerable students.</p></div>
-      <div class="bg-white border rounded-xl p-5 text-center shadow-sm"><div class="text-3xl mb-3">📖</div><h4 class="font-bold text-sm">Learning Materials & Supplies</h4><p class="text-xs mt-2 text-gray-600">Textbooks, stationery, desks to schools.</p></div>
-      <div class="bg-white border rounded-xl p-5 text-center shadow-sm"><div class="text-3xl mb-3">👥</div><h4 class="font-bold text-sm">Skills & Mentorship Training</h4><p class="text-xs mt-2 text-gray-600">Life skills, teacher training, youth mentorship.</p></div>
-    </div>
-  </div>
-  <div>
-    <img src="https://github.com/Bonymuseni.png" class="w-full h-56 object-cover rounded-lg">
-    <h4 class="font-bold text-center mt-3">Bony Museni</h4>
-    <p class="text-xs text-center text-[#d4a853]">Founder & Executive Director</p>
-    <div class="bg-[#0f2e1f] text-white rounded-lg p-4 mt-4"><p class="text-[#d4a853] font-bold text-sm">📱 Support via M-Pesa</p><p class="text-xs mt-2">0726575964 — EducationCHV Organisation</p></div>
-  </div>
-</section>
+---
 
-<footer id="contact" class="bg-[#0f2e1f] text-white px-6 py-8 text-center">
-  <h4 class="text-[#d4a853] font-bold">Contact Us</h4>
-  <p class="text-xs mt-2">Email: info@educationchv.org | M-Pesa: 0726575964</p>
-  <p class="text-xs">Shinyalu, Kakamega, Kenya</p>
-  <p class="text-[11px] text-[#d4a853] mt-4">© 2024 EducationCHV ORGANISATION • All Rights Reserved</p>
-</footer>
+### Empowering Education & Hope in Shinyalu, Kakamega
+Building brighter futures through education, skills training, and community support.
 
-</body>
-</html>
+### What We Do
+- 🎓 **Scholarships & School Fees**
+- 📖 **Learning Materials & Supplies**
+- 👥 **Skills & Mentorship Training**
+
+### Founder
+**Bony Museni** - Founder & Executive Director
+
+**Support via M-Pesa:** 0726575964
