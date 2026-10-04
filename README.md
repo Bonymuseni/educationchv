@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Img.jpg" width="180" style="border-radius:50%" alt="EducationCHV Logo" />
-</p>
-
+  
+   <img src="logo.png" width="200" alt="EducationCHV Logo" />
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=200&section=header&text=EducationCHV%20Organisation&fontSize=40&fontColor=fff&animation=fadeIn&desc=From%20Shinyalu,%20Kakamega%20to%20the%20World&descAlignY=75)
 
 <p align="center">
