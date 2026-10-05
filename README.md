@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png.jpg" width="200" alt="EducationCHV Logo" />
+  <img src="logo.png.jpeg" width="200" alt="EducationCHV Logo" />
 </p>
 
 <h1 align="center">EducationCHV Organisation</h1>
