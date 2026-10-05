@@ -1,4 +1,4 @@
-
+![EducationCHV Banner](banner.png)
 <p align="center">
   <img src="logo.png.jpeg" width="200" alt="EducationCHV Logo" />
 </p>
